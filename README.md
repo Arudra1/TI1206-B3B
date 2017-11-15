@@ -3,6 +3,6 @@ OOP Project
 
 Members:
   - Stijn Witsel
-  - Cas van Rijn
+  - Cas van Rijn 12345
   - Nick Yu
   - Arda Turhan 12345
