@@ -4,3 +4,4 @@ OOP Project
 Members:
   - Stijn Witsel
   - Cas van Rijn
+  - Nick Yu
