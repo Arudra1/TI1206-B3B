@@ -5,4 +5,4 @@ Members:
   - Stijn Witsel
   - Cas van Rijn
   - Nick Yu
-  - Arda Turhan
+  - Arda Turhan Commit test
